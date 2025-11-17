@@ -9,6 +9,11 @@
   --color-order-neutral-blue-50: hsl(225, 100%, 98%);
   --color-order-neutral-blue-600: hsl(224, 23%, 55%);
   --color-order-neutral-blue-950: hsl(223, 47%, 23%);
+  /*Three column*/
+  --color-three-column-primary-gold: hsl(31, 77%, 52%);
+  --color-three-column-primary-cyan: hsl(184, 100%, 22%);
+  --color-three-column-primary-green: hsl(179, 100%, 13%);
+  --color-three-column-neutral: hsl(0, 0%, 95%);
 }
 
 @theme inline {
